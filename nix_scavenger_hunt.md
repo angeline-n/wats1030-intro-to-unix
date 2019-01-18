@@ -16,7 +16,7 @@ and then clone it to your development environment.
 
 * Get an idea of where you are in the operating system. Use the `pwd` command to find your "path to working directory"--your current location in the filesystem of your devbox. *Paste the output of the `pwd` command here:* 
 
-https://github.com/angeline-n/wats1030-intro-to-unix.git
+/home/cabox/workspace/
 
 * Discover more about this filesystem. Use `ls` (the "list" command)to see what is in this directory. *What directories and files do you see when you run `ls`?* 
 challenge_files   LICENSE  nix_scavenger_hunt.md  nix_scavenger_hunt_stretch.md  README.md  super_scavengers.md                                               
